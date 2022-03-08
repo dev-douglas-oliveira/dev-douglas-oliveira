@@ -1,6 +1,6 @@
 ### Olá, meu nome é Douglas e gosto de programar em Java👋
 
-- 🔭 Atualmente estou trabalhando como servidor público municipal na área administrativa, mas com desejo fortíssimo em migrar de área.
+- 🔭 Atualmente trabalho como servidor público municipal na área administrativa, mas com desejo fortíssimo em migrar de área.
 - 🌱 Eu estou aprendendo e me aperfeiçoando na linguagem Java;
 - 👯 Estou à procura de um time de desenvolvedores que queiram apostar em mim.
 - 💬 Sou apaixonado por programação, mas comecei na tecnologia na área de suporte técnico.
