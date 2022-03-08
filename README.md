@@ -1,10 +1,10 @@
-### Olá, meu nome é Douglas e gosto de programar em Java👋
+### Olá, meu nome é Douglas e gosto de programar em linguagem Java👋
 
 - 🔭 Atualmente trabalho como servidor público municipal na área administrativa, mas com desejo fortíssimo em migrar de área.
 - 🌱 Eu estou aprendendo e me aperfeiçoando na linguagem Java;
 - 👯 Estou à procura de um time de desenvolvedores que queiram apostar em mim.
 - 💬 Sou apaixonado por programação, mas comecei na tecnologia na área de suporte técnico.
-- 📫 Pode me achar facilmente no e-mail dougmoroli@gmail.com ou no WhatsApp (11) 98337-0386
+- 📫 Podem me achar facilmente no e-mail dougmoroli@gmail.com ou no WhatsApp (11) 98337-0386
 - 😄 Ele/Dele
 
 <div align="center">
@@ -25,7 +25,7 @@
    
   ##
   <a href="https://instagram.com/dougmoroli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dougmoroli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dougmoroli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglasjavaprogrammer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  ##
   
