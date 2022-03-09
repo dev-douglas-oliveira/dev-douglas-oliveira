@@ -1,4 +1,4 @@
-### Olá, meu nome é Douglas e gosto de programar em linguagem Java👋
+### Olá, meu nome é Douglas e sou programador em linguagem Java👋
 
 - 🔭 Atualmente trabalho como servidor público municipal na área administrativa, mas com desejo fortíssimo em migrar de área.
 - 🌱 Eu estou aprendendo e me aperfeiçoando na linguagem Java;
