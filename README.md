@@ -1,7 +1,7 @@
-### Olá, meu nome é Douglas e sou programador Java👋
+### Olá, meu nome é Douglas e sou desenvolvedor Full Stack👋
 
 - 🔭 Atualmente trabalho como servidor público municipal na área administrativa, mas com desejo fortíssimo em migrar de área.
-- 🌱 Eu estou aprendendo e me aperfeiçoando na linguagem Java;
+- 🌱 Eu me aperfeiçoei em diversas linguagens de programação, mas tenho maior familiaridade com Java;
 - 👯 Estou à procura de um time de desenvolvedores que queiram apostar em mim.
 - 💬 Sou apaixonado por programação, mas comecei na tecnologia na área de suporte técnico.
 - 📫 Podem me achar facilmente no e-mail dougmoroli@gmail.com ou no WhatsApp (11) 98337-0386
