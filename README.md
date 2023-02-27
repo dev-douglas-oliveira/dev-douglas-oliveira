@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/dev-douglas-oliveira">
-  <img height="180em" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=dougjavaprogrammer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=dev-douglas-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
     
  </div>
